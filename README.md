@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitt0" alt="mohitt0" /></a> </p>
 
-- 🔭 I’m currently working in **Lakebrains Technologis as a Web Developer**
 
 - 🌱 I’m currently learning **Nextjs**
 
