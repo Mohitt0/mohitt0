@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **reactjs ,javascript**
 
-- 📫 How to reach me **mohitprajapat@gmail.com**
+- 📫 How to reach me **mohitprajapat916@gmail.com**
 
 - ⚡ Fun fact **I find myself interested in exploring new technologies**
 
